@@ -1,0 +1,4 @@
+<meta>
+	<info author="Sc4r" name="sAnti-cmds" version="1.0" type="Script"/>
+	<script src="sc4r.lua" type="server" />
+</meta>
